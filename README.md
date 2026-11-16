@@ -3,7 +3,7 @@
 **Cybersecurity · Blue Team**
 Systems Engineering, Universidad del Quindío · Colombia
 
-Systems engineer focused on defensive security. I'm interested in how attacks show up in logs and network traffic, and in how to detect, investigate and document them. Looking for a junior role in security operations (SOC).
+Systems engineer focused on defensive security. I'm interested in how attacks show up in logs and network traffic, and in how to detect, investigate and document them. Looking for a junior role in security operations (SOC).c
 
 [![Email](https://img.shields.io/badge/Email-dehibymorales%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dehibymorales@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-JohnDehiby25-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JohnDehiby25)
@@ -20,7 +20,19 @@ Systems engineer focused on defensive security. I'm interested in how attacks sh
 | Area | Skills |
 |---|---|
 | Programming | Java, SQL |
-| Tools | Git, GitHub |
+| Tools | Git, GitHub, Linux CLI |
+
+## Currently Learning
+
+| Area | Focus |
+|---|---|
+| Network analysis | Wireshark, Cisco Networking Academy |
+| SIEM / Log analysis | Splunk (free training and sandbox), Windows Event Logs, Linux logs |
+| Scripting | Python for log parsing and automation |
+| Detection | Sigma rules, MITRE ATT&CK mapping |
+| Threat intel | VirusTotal, AbuseIPDB, basic IOC analysis |
+| Practice labs | TryHackMe SOC Level 1 path, Blue Team Labs Online |
+| Cloud | AWS or Azure fundamentals (cloud security basics, IAM, logging) |
 
 ## Projects
 
